@@ -3,6 +3,7 @@ This is a [MediaWiki Extension](https://www.mediawiki.org/wiki/Extension:SimpleT
 ## Attribution
 Uses the [Tooltipster Library](http://iamceege.github.io/tooltipster/) and [Fugue Icons](https://github.com/yusukekamiyamane/fugue-icons)
 
+Which MIGHT actually be [Tooltipster Library](https://github.com/calebjacob/tooltipster) and [Fugue Icons](https://github.com/frisco-joe/fugue-icons)
 
 # Installation
 Download and place the file(s) in a directory called SimpleTooltip in your extensions/ folder.

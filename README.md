@@ -3,6 +3,20 @@ This is a [MediaWiki Extension](https://www.mediawiki.org/wiki/Extension:SimpleT
 ## Attribution
 Uses the [Tooltipster Library](http://iamceege.github.io/tooltipster/) and [Fugue Icons](https://github.com/yusukekamiyamane/fugue-icons)
 
+
+# Installation
+Download and place the file(s) in a directory called SimpleTooltip in your extensions/ folder.
+
+Add the following code at the bottom of your LocalSettings.php:
+
+`require_once "$IP/extensions/SimpleTooltip/SimpleTooltip.php";`
+
+Yes Done – Navigate to Special:Version on your wiki to verify that the extension is successfully installed.
+
+Instead of downloading the zip archive you may also check this extension out via Git:
+
+`git clone https://github.com/cdntinker/SimpleTooltip.git`
+
 # Usage
 There is a short alias and a more descriptive parser function name for each tooltip type.
 

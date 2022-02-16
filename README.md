@@ -1,10 +1,5 @@
 This is a [MediaWiki Extension](https://www.mediawiki.org/wiki/Extension:SimpleTooltip) that adds basic tooltip capabilities. For Documentation see: https://www.mediawiki.org/wiki/Extension:SimpleTooltip
 
-## Attribution
-Uses the [Tooltipster Library](http://iamceege.github.io/tooltipster/) and [Fugue Icons](https://github.com/yusukekamiyamane/fugue-icons)
-
-Which MIGHT actually be [Tooltipster Library](https://github.com/calebjacob/tooltipster) and [Fugue Icons](https://github.com/frisco-joe/fugue-icons)
-
 # Installation
 Download and place the file(s) in a directory called SimpleTooltip in your extensions/ folder.
 
@@ -40,3 +35,8 @@ There is a short alias and a more descriptive parser function name for each tool
 `{{#simple-tooltip-img: /path/to/your/image.png | image tooltip-text }}`
 
 Where "/path/to/your/image.png" is total bullshit.  It's actually an image URL that it wants.
+
+## Attribution
+~~Uses the [Tooltipster Library](http://iamceege.github.io/tooltipster/) and [Fugue Icons](https://github.com/yusukekamiyamane/fugue-icons)~~
+
+Which MIGHT actually be [Tooltipster Library](https://github.com/calebjacob/tooltipster) and [Fugue Icons](https://github.com/frisco-joe/fugue-icons)
